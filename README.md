@@ -1,4 +1,4 @@
-# Machine Learning Projects
+
 ## House Price Prediction
 This project uses Linear regression to
 predict house price
