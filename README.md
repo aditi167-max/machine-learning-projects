@@ -1,7 +1,16 @@
 # Machine Learning Projects
-This repository contains my machine learning 
-practice projects.
-## Projects
-- House Price Prediction
-- Heart Disease Classification
-- Iris Classification
+## House Price Prediction
+This project uses Linear regression to
+predict house price
+### Steps Performed
+-Data Cleaning
+-Missing Value Handling 
+- Feature Encoding
+- Train-Test Split
+- Linear Regression
+### Libraries Used 
+-Numpy
+-Pandas
+-Matplotlib
+-Seaborn
+-Scikit-Learn
